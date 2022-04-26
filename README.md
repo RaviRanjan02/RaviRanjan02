@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Ranjan</h1>
-<h3 align="center">A Full-Stack developer from India</h3>
+<h3 align="center">A Full-Stack Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviranjan02&label=Profile%20views&color=0e75b6&style=flat" alt="raviranjan02" /> </p>
 
