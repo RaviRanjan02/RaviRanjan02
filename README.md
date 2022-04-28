@@ -1,4 +1,5 @@
-* ![git](https://user-images.githubusercontent.com/91020498/165689438-6f2b4dab-4646-46b8-a2fe-ed6cd6270d97.jpg)
+* ![1648798761505](https://user-images.githubusercontent.com/91020498/165690946-96770082-db00-491f-87d9-e527aab8b9bf.jpeg)
+
 
 
 <h1 align="center">Hi 👋, I'm Ravi Ranjan</h1>
