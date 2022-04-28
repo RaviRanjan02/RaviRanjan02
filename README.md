@@ -1,3 +1,6 @@
+* ![git](https://user-images.githubusercontent.com/91020498/165689438-6f2b4dab-4646-46b8-a2fe-ed6cd6270d97.jpg)
+
+
 <h1 align="center">Hi 👋, I'm Ravi Ranjan</h1>
 <h3 align="center">A Full-Stack Web developer from India</h3>
 
