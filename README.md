@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Full-Stack Web Development**
 
-<!--  -->
+- 👨‍💻 All of my projects are available at [https://my-portfolio-chi-three.vercel.app/](https://my-portfolio-chi-three.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@raviranjan1140](https://medium.com/@raviranjan1140)
 
