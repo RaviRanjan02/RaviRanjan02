@@ -30,7 +30,7 @@
 <a href="https://twitter.com/https://twitter.com/ravirs9597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ravirs9597" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/raviranjan1140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raviranjan1140/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/itz_raviranjan1140/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/itz_raviranjan1140/?hl=en" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@raviranjan1140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@raviranjan1140" height="30" width="40" /></a>
+<a href="https://medium.com/@raviranjan1140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@raviranjan1140" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
