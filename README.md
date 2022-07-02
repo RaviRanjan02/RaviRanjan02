@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **raviranjan1140@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SnjkwCu-2cCrECPMLT4y9TuNt5EtRJgX/view?usp=sharing](https://drive.google.com/file/d/1SnjkwCu-2cCrECPMLT4y9TuNt5EtRJgX/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1DHTu7n641ERx1zu41t78x9mhBYQNPKUA/view?usp=sharing)
 
 - ⚡ Fun fact **Wanderlust**
 
